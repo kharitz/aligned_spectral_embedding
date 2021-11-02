@@ -37,22 +37,13 @@ python3 main.py
 Please cite our papers if you use this code in your own work:
 
 ```
-
 @article{gopinath2019graph,
-
   title={Graph convolutions on spectral embeddings for cortical surface parcellation},
-
   author={Gopinath, Karthik and Desrosiers, Christian and Lombaert, Herve},
-
   journal={Medical image analysis},
-
   volume={54},
-
   pages={297--305},
-
   year={2019},
-
   publisher={Elsevier}
-
 }
-
+```
