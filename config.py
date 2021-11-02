@@ -4,9 +4,9 @@ main_path = '/data/datasets/Mindboggle101/processed/processed_FreeSurfer/' #MRI 
 label_path = '/data/datasets/Mindboggle101/processed/labels_manual/' #manual labels
 file_save_path = '/Aligned_files'
 
-# main_path = 'D:/MITACS/MindBoggle' #MRI scans
-# label_path = 'D:/MITACS/MindBoggle/labels_manual'
-# file_save_path = 'D:/MITACS/Aligned_files'
+# main_path #MRI scans
+# label_path labels_manual
+# file_save_path Aligned_files
 
 hemi= ['lh']
 ne= 5
