@@ -27,7 +27,7 @@ This repository contains the python implementation of the graph spectral alignme
 - time, timeit
 - vtk
 
-### Packages Installation
+### Installation
 - To use the *requirements.txt* file to create an identical environment on the same machine or another machine:
 ```
 conda create --name myenv --file requirements.txt
