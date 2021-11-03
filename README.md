@@ -1,4 +1,4 @@
-# Aligned Spectral Embedding for brain surface analysis
+# Aligned Spectral Embedding for Brain Surface Analysis
 This repository contains the python implementation of the graph spectral alignment. We perform this spectral alignment to overcome the limitations of spectral graph convolution networks in our work "Graph Convolutions on Spectral Embeddings for Cortical Surface Parcellation", published in Medical Image Analysis, January 2019. 
 
 ### What does the reopositery do?
