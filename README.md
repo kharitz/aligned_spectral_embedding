@@ -30,11 +30,11 @@ This repository contains the python implementation of the graph spectral alignme
 ### Installation
 - To use the *requirements.txt* file to create an identical environment on the same machine or another machine:
 ```
-conda create --name myenv --file requirements.txt
+conda create --name myenv --file requirements_linux.txt
 ```
 - To use the *requirements.txt* file to install its listed packages into an existing environment:
 ```
-conda install --name myenv --file requirements.txt
+conda install --name myenv --file requirements_linux.txt
 ```
 
 
